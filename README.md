@@ -1,1 +1,1 @@
-# Triveous-assignment
+# news-app
